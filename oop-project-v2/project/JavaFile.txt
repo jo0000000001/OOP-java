@@ -1,0 +1,13 @@
+            STUDENT 1
+Student_ID : 1000
+ID : 212121
+Name : yousef ramadan
+Age : 21
+Level : 2
+Expensis : 1200
+Email : s212121@cis.dmu.edu.eg
+Phone : 11212121212
+Courses Number: 0
+Credit HOurs: 0
+registerd courses for the student
+________________________________________________
